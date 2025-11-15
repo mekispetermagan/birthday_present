@@ -1,16 +1,6 @@
-# i_am_rich
+# A present for Patience
 
-A new Flutter project.
+A very simple Flutter project as a loveletter to Patience, written in Flutter. Simple animations, some audio, minimal functionality. Tested on web and android.
 
-## Getting Started
+Note: It contains copyrighted audio, shouldn't be added to the Play Store.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
